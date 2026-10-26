@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://addisonfelizola.github.io/italy-1-euro-homes/sitemap.xml
